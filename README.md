@@ -1,11 +1,14 @@
 # Hi there 👋
-Studente
-### _About me:_ 
-* 🏫 _Studente presso Istituto Tecnico Industriale Galileo Ferraris_
+💻 _Studente presso Istituto Tecnico Industriale Galileo Ferraris_
+### 😺 _About me:_ 
+* 😴 _Love sleeping_
 * 🐍 _Provando a imparare Python & SQLI_
 * 🇮🇹 _Residente in Italia_
 
-### _Social:_
+### 📚 _Corsi seguiti:_
+[Networking 101](https://www.udemy.com/course/networking-101-corso-di-reti-da-zero/)
+
+### 📱 _Social:_
 [Instagram](https://instagram.com/katz.py/)
 ### ⠀
 ![image alt text](https://i.ibb.co/D1Bbb7v/Untitled.png)
