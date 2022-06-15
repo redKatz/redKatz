@@ -10,7 +10,7 @@
 
 ### 📱 _Social:_
 [Instagram](https://instagram.com/katz.py/)<br />
-![image alt text]([image URL link](https://i.ibb.co/4MVKw6N/insta.png))(https://instagram.com/katz.py/)
+[Github](https://github.com/redKatz/)<br />
 [Jami](https://i.ibb.co/cXRSMQR/Screenshot-2022-06-15-16-11-19.png)
 ### ⠀
 ![image alt text](https://i.ibb.co/D1Bbb7v/Untitled.png)
