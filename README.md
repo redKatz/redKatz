@@ -7,4 +7,4 @@ Studente
 
 ### _Social:_
 [Instagram](https://instagram.com/katz.py/)
- [![image alt text]([image URL link](https://i.ibb.co/gTpH4Gw/log.png))](anchor link)
+[![image alt text](https://i.ibb.co/gTpH4Gw/log.png)](anchor link)
