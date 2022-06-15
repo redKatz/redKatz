@@ -1,9 +1,9 @@
 # Hi there 👋
 💻 _Studente presso Istituto Tecnico Industriale Galileo Ferraris_
 ### 😺 _About me:_ 
-* 😴 _Love sleeping_
-* 🐍 _Provando a imparare Python & SQLI_
 * 🇮🇹 _Residente in Italia_
+* 🐍 _Provando a imparare Python & SQLI_
+* 🎂 _16 y/o_
 
 ### 📚 _Corsi seguiti:_
 [Networking 101](https://www.udemy.com/course/networking-101-corso-di-reti-da-zero/)
