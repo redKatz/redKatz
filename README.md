@@ -8,4 +8,4 @@ Studente
 ### _Social:_
 [Instagram](https://instagram.com/katz.py/)
 
-<img src="[image ur](https://i.ibb.co/gTpH4Gw/log.png)" alt="alt text" title="image Title" />
+<img src="[image ur](https://i.ibb.co/gTpH4Gw/log.png)"/>
