@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redkatz)](https://github.com/redKatz/github-readme-stats)
 # Hi there 👋
 💻 _Studente presso Istituto Tecnico Industriale Galileo Ferraris_
 ### 😺 _About me:_ 
