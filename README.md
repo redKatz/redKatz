@@ -1,5 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=redKatz)
-
 # Hi there 👋
 💻 _Studente presso Istituto Tecnico Industriale Galileo Ferraris_
 ### 😺 _About me:_ 
