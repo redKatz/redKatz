@@ -13,11 +13,9 @@
 [Instagram](https://instagram.com/katz.py/)<br />
 [Github](https://github.com/redKatz/)<br />
 
-Jami:
-
+[Jami](https://i.ibb.co/hmCkY1m/Screenshot-20220724-192852.png)
 <br />
 
-![](https://i.ibb.co/hmCkY1m/Screenshot-20220724-192852.png)
 
 <br>
 
