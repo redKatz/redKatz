@@ -12,6 +12,14 @@
 ### 📱 _Social:_
 [Instagram](https://instagram.com/katz.py/)<br />
 [Github](https://github.com/redKatz/)<br />
-[Jami](https://i.ibb.co/cXRSMQR/Screenshot-2022-06-15-16-11-19.png)
+
+Jami:
+
+<br />
+
+![](https://i.ibb.co/hmCkY1m/Screenshot-20220724-192852.png)
+
+<br>
+
 ### ⠀
 ![image alt text](https://i.ibb.co/D1Bbb7v/Untitled.png)
